@@ -33,5 +33,5 @@ def insert_sort(array, i, count, gap):
 if __name__ == '__main__':
 	array = [random.randint(10, 50) for i in range(10)]
 	print array
- 	shell_sort(array)
+	shell_sort(array)
 # 	insert_sort(array, 0, 10, 2)
