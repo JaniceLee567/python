@@ -16,7 +16,7 @@ def straight_insert_sort(array):
                 k = j   # reserve insert point
             else:
                 k = j+1 # reserve insert point
-                break
+                break  #*** important
         array[k] = key # insert data
         print array
 
