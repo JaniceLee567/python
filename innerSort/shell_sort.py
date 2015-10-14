@@ -1,6 +1,6 @@
 # shell_sort:
-#	describtion: cut array with gap, and each patch use insert_sort
-#	stabilition: unstable
+#	description: cut array with gap, and each patch use insert_sort
+#	stability: unstable
 #	time_complex: can not to ensure
 
 import random
