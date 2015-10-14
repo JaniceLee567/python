@@ -1,7 +1,7 @@
 #bubble_sort:
-#	describtion: the former and latter number is changed all the time. 
+#	description: the former and latter number is changed all the time. 
 #                only the maximum number occurred in the last position
-#	stabilition: unstable
+#	stability: unstable
 #	time_complex: O(n^2), the best is O(n)
 
 import random
